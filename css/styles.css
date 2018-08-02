@@ -5,3 +5,7 @@
 h1.blue {
   color: blue;
 }
+
+.col-md-4 {
+  outline: 2px solid #000;
+}
